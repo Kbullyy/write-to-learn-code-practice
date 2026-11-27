@@ -22,4 +22,4 @@ print("------------------------")
 print("Thank you for visiting!")
 print("------------------------")
 print("------------------------")
-
+#Chapter 2 work learning to shorten the code with less print lines using \n and \t to format the output produced.
